@@ -1,4 +1,5 @@
 # Citation info : 
+# Link : https://huggingface.co/Salesforce/blip-image-captioning-base
 '''
 @misc{https://doi.org/10.48550/arxiv.2201.12086,
   doi = {10.48550/ARXIV.2201.12086},
