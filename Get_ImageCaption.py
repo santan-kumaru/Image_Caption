@@ -48,7 +48,7 @@ def create_caption(raw_image,num):
     return output  # Return the list of captions.
 
 def main():
-    st.title('Caption Creater')
+    st.title('Caption Creator')
     # Allow the user to select an image either by providing a URL or by uploading a file.
     option = st.radio('Select an option:', ('Enter an image URL','Upload an image'))
     if option=="Enter an image URL":
